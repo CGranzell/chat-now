@@ -1,0 +1,9 @@
+.btn {
+  background-color: aqua;
+  width: 15rem;
+ height: 3rem;
+ border-radius: 8px ;
+ margin-top: 5rem;
+ margin-left: 43%;
+ cursor: pointer;
+}
