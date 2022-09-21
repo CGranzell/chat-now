@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className={classes.header}>
       <div className={classes.logo}>
-        <h2>Chat-Now</h2>
+        <h2>Chat-Now Live</h2>
       <SignOut />
         <i className="fab fa-react"></i>
       </div>
