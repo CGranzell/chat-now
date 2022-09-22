@@ -1,8 +1,15 @@
 .btn {
+
   background-color: aqua;
   width: 15rem;
  height: 3rem;
  border-radius: 8px ;
  margin-top: 5rem;
  cursor: pointer;
+ 
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
 }
