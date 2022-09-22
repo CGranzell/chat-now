@@ -17,3 +17,9 @@ font-size: 2rem;
 margin-top: 5rem;
 color: aqua;
 }
+
+@media (max-width: 712px) {
+  .welcome {
+    font-size: 1rem;
+  }
+}
