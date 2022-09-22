@@ -18,8 +18,8 @@ function App() {
       {!user && <div className="welcome">
       <h1>Welcome To Chat-Now</h1>
       <p>Log in to join the chat</p>
-      <section>{user ? <ChatRoom /> : <SignIn /> }</section>
       </div>}
+      <section>{user ? <ChatRoom /> : <SignIn /> }</section>
     </div>
   );
 }
