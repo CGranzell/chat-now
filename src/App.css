@@ -27,6 +27,7 @@ color: aqua;
 }
 @media (max-width: 320px) {
   .welcome {
-    font-size: 0.5rem;
+    font-size: 0.6rem;
   }
 }
+
